@@ -4,7 +4,7 @@
 ### Tutorial part 1
 https://youtu.be/_AASJZyNcXQ
 <a href="https://www.youtube.com/watch?v=_AASJZyNcXQ">
-  <img src="https://img.youtube.com/vi/_AASJZyNcXQ/0.jpg" alt="IMAGE ALT TEXT HERE" width="600">
+  <img src="https://img.youtube.com/vi/_AASJZyNcXQ/0.jpg" alt="IMAGE ALT TEXT HERE" width="800">
 </a>
 
 
