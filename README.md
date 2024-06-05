@@ -3,7 +3,9 @@
 ## Interactive Brokers
 ### Tutorial part 1
 https://youtu.be/_AASJZyNcXQ
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_AASJZyNcXQ/0.jpg)](https://www.youtube.com/watch?v=_AASJZyNcXQ)
+<a href="https://www.youtube.com/watch?v=_AASJZyNcXQ">
+  <img src="https://img.youtube.com/vi/_AASJZyNcXQ/0.jpg" alt="IMAGE ALT TEXT HERE" width="600">
+</a>
 
 
 ### Bollinger Band Trading Example
